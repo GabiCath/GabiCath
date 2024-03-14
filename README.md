@@ -63,6 +63,4 @@
   </body>
       </html>
 
-      h1{
-  color: red
-}
+      h1{ color: red}
