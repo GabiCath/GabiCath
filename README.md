@@ -52,11 +52,12 @@
       <li>Java.</li>
    </ol>
 
+  <h1>🙂 Meu e-mail:</h1>
    <ul>
      <li>Meu e-mail: https://gabrielaandreatta2001@gmail.com</li>
    </ul>
    
-  <h1>🙂 Informações adicionais:</h1>
+  <h1>🌹 Informações adicionais:</h1>
    <ol>
      <li>Aceito novas conexões no Linkedln, amo fazer amizades.</li>
      <li>Eu sou formada em Escrita Criativa.</li>
