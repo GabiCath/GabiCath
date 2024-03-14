@@ -51,6 +51,22 @@
      <li>Python.</li>
       <li>Java.</li>
    </ol>
+      </ol>
+  <h1>🥰 Linguagens de Programação que me interessam:</h1>
+   <ol>
+     <li>JavaScript.</li>
+     <li>Python.</li>
+      <li>Java.</li>
+   </ol>
+   </ol>
+  <h1>🤗 Minhas softs skills:</h1>
+   <ol>
+     <li>Liderança: Fui monitora do curso "Plataforma Proa", em que eu auxiliei os meus colegas, realizei tarefas como monitora e ensinei eles, desenvolvi a capacidade de liderança.</li>
+     <li>Trabalho em equipe: Lido com trabalhos em equipe desde que sou uma criança, realizei muitos trabalhos em grupo, tanto no ensino fundamental, quanto no ensino médio, quanto na faculdade e até mesmo durante o curso "Plataforma Proa".</li>
+      <li>Pensamento criativo: Desenvolvi desde a época em que eu era pequena, o pensamento criativo, pensando em muitas soluções e ideias criativas, eu gosto de tetar coisas, desenvolvi ainda mais o meu pensamento criativo durante a faculdade e agora durante o curso "Programar com vc" que estou participando.</li>
+          <li>Liderança: Fui monitora do curso "Plataforma Proa", em que eu auxiliei os meus colegas, realizei tarefas como monitora e ensinei eles, desenvolvi a capacidade de liderança.</li>
+          <li>Mentalidade de Desenvolvimento continuo: Continuo me desenvolvendo por meio dos estudos e por meio de cursos, de uma forma interdisciplinar, tentando aprender mais sobre diversos assuntos e colocando em pratica.</li>
+   </ol>
 
   <h1>🙂 Meu e-mail:</h1>
    <ul>
