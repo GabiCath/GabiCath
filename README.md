@@ -5,7 +5,7 @@
   </head>
     <body>
         <center><i><h1>Eu sou a Gabriela Catharine Andreatta, podem me chamar de Gabbie! É um prazer conhecer vocês! </h1></i></center>
-<center><p><strong><img src = "[https://media.licdn.com/dms/image/D4D03AQHJtV4Lk4Vq0Q/profile-displayphoto-shrink_800_800/0/1710197364865?e=1715817600&v=beta&t=bdsJ6acJKskOO3NPkztBsxEUPTqTvZXR2qlKbIfmf1o](https://media.licdn.com/dms/image/D4D22AQE9okUXCM1Njg/feedshare-shrink_800/0/1702817670999?e=1713398400&v=beta&t=d6Fn-s_yZF_Wv0lMZSRii6xjNnz4Ep8I1B1-D8a-glQ)"></stronger></p>
+<center><p><strong><img src = "https://media.licdn.com/dms/image/D4D22AQE9okUXCM1Njg/feedshare-shrink_800/0/1702817670999?e=1713398400&v=beta&t=d6Fn-s_yZF_Wv0lMZSRii6xjNnz4Ep8I1B1-D8a-glQ"></stronger></p>
       <center><a href='https://www.linkedin.com/in/gabriela-catharine-andreatta-profissionalmultidisciplinar/'<button>Meu Linkedln</button></a></center>
  </p> Técnologias que uso no meu dia a dia:</p>
    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "/>
