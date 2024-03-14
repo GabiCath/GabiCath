@@ -27,7 +27,7 @@
      <li>Fazer cursos.💕</li>
       <li>Morangos, bolo e pizza.🌍</li>
       <li>Coca cola zero açucar.🌈</li>
-
+   </ol>
   <h1>Linguagens de Programação que me interessam:</h1>
    <ol>
      <li>JavaScript.🎊</li>
