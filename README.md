@@ -1,11 +1,11 @@
-### Hi there 👋
+### Oie, pessoal 🍰🍓🍕
 
 <Html>
   <head>
     <title>GabiCath</title>
   </head>
     <body>
-        <center><i><h1>Gabriela Catharine Andreatta, podem me chamar de Gabbie 😃😄🥰😍🤩</h1></i></center>
+        <center><i><h1>🌸💗😻Eu sou a Gabriela Catharine Andreatta, podem me chamar de Gabbie! É um prazer conhecer vocês! ❤️🧡💜</h1></i></center>
 <center><p><strong><img src = "https://media.licdn.com/dms/image/D4D03AQHJtV4Lk4Vq0Q/profile-displayphoto-shrink_800_800/0/1710197364865?e=1715817600&v=beta&t=bdsJ6acJKskOO3NPkztBsxEUPTqTvZXR2qlKbIfmf1o"></stronger></p>
       <center><a href='https://www.linkedin.com/in/gabriela-catharine-andreatta-profissionalmultidisciplinar/'>  
         <p1><button>Meu Linkedln</button></a></center></p1>
