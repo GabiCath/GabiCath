@@ -17,13 +17,13 @@
      <li>Realidade Aumentada.🧐</li>
      <li>Realidade Virtual.🥰</li>
       <li>Lógica de programação e algoritmo.😏</li>
-   </ol>ol>
+   </ol>
   </body>
       </html>
   
 button{
   color: blue
 }
-H1{
-  color: indigo
+h1{
+  color: blue
 }
