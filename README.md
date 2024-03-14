@@ -51,6 +51,11 @@
      <li>Python.</li>
       <li>Java.</li>
    </ol>
+
+   <ul>
+     <li>Meu e-mail: https://gabrielaandreatta2001@gmail.com</li>
+   </ul>
+   
   <h1>🙂 Informações adicionais:</h1>
    <ol>
      <li>Aceito novas conexões no Linkedln, amo fazer amizades.</li>
