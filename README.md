@@ -25,7 +25,16 @@
     <li>Conversar e fazer novas amizades.🦄</li>
      <li>Fazer cursos.💕</li>
       <li>Morangos, bolo e pizza.🌍</li>
-      <li>Coca cola zero acular.🌈</li>
+      <li>Coca cola zero açucar.🌈</li>
    </ol>
+  <h1>Informações adcionais</h1>
+   <ol>
+     <li>Aceito novas conexões no Linkedln, amo fazer amizades.✨</li>
+     <li>Eu sou formada em Escrita Criativa.🟡</li>
+      <li>Eu já fui monitora voluntária, fui monitora em um curso chamado "Plataforma Proa".🟡</li>
+     <li>Eu gosto de pesquisar e estudar bastante.🔴</li>
+    <li>Eu sou bastante aberta para falar de muitos assuntos.🟠</li>
+   </ol>
+  
   </body>
       </html>
