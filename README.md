@@ -1,8 +1,7 @@
-### Oie, pessoal 🍰🍓🍕
+### Oie, pessoal. 🍰🍓🍕 Aqui é o perfil da Gabriela Catharine Andreatta 🌈👑
 
 <Html>
   <head>
-    <title>GabiCath</title>
   </head>
     <body>
         <center><i><h1>🌸💗😻Eu sou a Gabriela Catharine Andreatta, podem me chamar de Gabbie! É um prazer conhecer vocês! ❤️🧡💜</h1></i></center>
@@ -17,6 +16,16 @@
      <li>Realidade Aumentada.🧐</li>
      <li>Realidade Virtual.🥰</li>
       <li>Lógica de programação e algoritmo.😏</li>
+   </ol>
+    <h1>😚 Coisas que eu gosto:</h1>
+   <ol>
+     <li>Criatividade e artes.✨</li>
+     <li>Inovação.🌷</li>
+     <li>Estudar.💋</li>
+    <li>Conversar e fazer novas amizades.🦄</li>
+     <li>Fazer cursos.💕</li>
+      <li>Morangos, bolo e pizza.🌍</li>
+      <li>Coca cola zero acular.🌈</li>
    </ol>
   </body>
       </html>
