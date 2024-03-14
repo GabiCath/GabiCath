@@ -8,8 +8,7 @@
 <center><p><img src = "https://media.licdn.com/dms/image/D4D22AQE9okUXCM1Njg/feedshare-shrink_800/0/1702817670999?e=1713398400&v=beta&t=d6Fn-s_yZF_Wv0lMZSRii6xjNnz4Ep8I1B1-D8a-glQ"></p>
       <center><a href='https://www.linkedin.com/in/gabriela-catharine-andreatta-profissionalmultidisciplinar/'<button>Meu Linkedln</button></a></center>
       button{
-  color: red
-}
+  color: red}
  </p> Técnologias que uso no meu dia a dia:</p>
    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "/>
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "/>
