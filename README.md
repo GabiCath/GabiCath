@@ -11,7 +11,7 @@
         <p1><button>Meu Linkedln</button></a></center></p1>
   <p>[![GabiCath's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiCath)]</p>
  </p> ### Técnologias que uso no meu dia a dia:</p>
-   <img align="center" alt="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username={GabiCath}&theme=blue-green "/>
+   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "/>
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "/>
     <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "/>
     <img align="center" alt="TrybeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "/>
@@ -25,7 +25,7 @@
     <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white "/>
     <img align="center" alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white "/>
     <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "/>
-   <img align="center" alt="WhatsApp" src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) "/>
+   <img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "/>
 
 
 
