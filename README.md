@@ -1,5 +1,4 @@
-### Oie, pessoal. 🍰🍓🍕 
-### Aqui é o perfil da Gabriela Catharine Andreatta 🌈👑
+### Oie, pessoal. 
 
 <Html>
   <head>
@@ -32,27 +31,27 @@
    <center><p2>Eu amo programação e adoro conhecer novas pessoas, quem quiser se conectar comigo é só mandar mensagem no linkedln, meu Linkedln é Gabriela Catharine Andreatta. 🤓 Vocês repararam que eu também uso óculos como esse emoji? Hehehe, meio bobo, eu sei. Estou estudando programação, acho TI muito interessante.</p2></center>
   <h1>🤪 Assuntos que me interessam em TI:</h1>
    <ol>
-     <li>Front End.🤩</li>
-     <li>Back End.🤗</li>
-     <li>Realidade Aumentada.🧐</li>
-     <li>Realidade Virtual.🥰</li>
-      <li>Lógica de programação e algoritmo.😏</li>
+     <li>Front End.</li>
+     <li>Back End.</li>
+     <li>Realidade Aumentada.</li>
+     <li>Realidade Virtual.</li>
+      <li>Lógica de programação e algoritmo.</li>
    </ol>
     <h1>😚 Coisas que eu gosto:</h1>
    <ol>
-     <li>Criatividade e artes.✨</li>
-     <li>Inovação.🌷</li>
-     <li>Estudar.💋</li>
-    <li>Conversar e fazer novas amizades.🦄</li>
-     <li>Fazer cursos.💕</li>
-      <li>Morangos, bolo e pizza.🌍</li>
-      <li>Coca cola zero açucar.🌈</li>
+     <li>Criatividade e artes.</li>
+     <li>Inovação.</li>
+     <li>Estudar.</li>
+    <li>Conversar e fazer novas amizades.</li>
+     <li>Fazer cursos.</li>
+      <li>Morangos, bolo e pizza.</li>
+      <li>Coca cola zero açucar.</li>
    </ol>
   <h1>Linguagens de Programação que me interessam:</h1>
    <ol>
-     <li>JavaScript.🎊</li>
-     <li>Python.⭐</li>
-      <li>Java.🌝</li>
+     <li>JavaScript.</li>
+     <li>Python.</li>
+      <li>Java.</li>
    </ol>
   <h1>Informações adicionais</h1>
    <ol>
