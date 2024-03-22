@@ -25,7 +25,7 @@
    <img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "/>
 
 
-
+<center><p><img src = "file:///C:/Users/Administrador/Downloads/octocat-1711143025945.png"></p></center>
    <center><p2>Eu amo programação e adoro conhecer novas pessoas, quem quiser se conectar comigo é só mandar mensagem no linkedln, meu Linkedln é Gabriela Catharine Andreatta. 🤓 Vocês repararam que eu também uso óculos como esse emoji? Hehehe, meio bobo, eu sei. Estou estudando programação, acho TI muito interessante.</p2></center>
   <h1>🤪 Assuntos que me interessam em TI:</h1>
    <ol>
