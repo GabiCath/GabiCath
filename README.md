@@ -30,7 +30,7 @@
         <ol>
           <h1>Minha formação</h1>
           <li>Graduação em Escrita Criativa - Pontifícia Catolica do Rio Grande do Sul</li>
-          <ul>Escrita Criativa</ul>
+        </ol>
   <hr>
   <h1>🤪 Assuntos que me interessam em TI:</h1>
    <ol>
