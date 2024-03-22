@@ -7,6 +7,8 @@
         <center><i><h1>Eu sou a Gabriela Catharine Andreatta, podem me chamar de Gabbie! É um prazer conhecer vocês! </h1></i></center>
 <center><p><img src = "https://media.licdn.com/dms/image/D4D22AQE9okUXCM1Njg/feedshare-shrink_800/0/1702817670999?e=1713398400&v=beta&t=d6Fn-s_yZF_Wv0lMZSRii6xjNnz4Ep8I1B1-D8a-glQ"></p>
       <center><a href='https://www.linkedin.com/in/gabriela-catharine-andreatta-profissionalmultidisciplinar/'<button>Meu Linkedln</button></a>
+           <center><p2>Eu amo programação e adoro conhecer novas pessoas, quem quiser se conectar comigo é só mandar mensagem no linkedln, meu Linkedln é Gabriela Catharine Andreatta. 🤓 Vocês repararam que eu também uso óculos como esse emoji? Hehehe, meio bobo, eu sei. Estou estudando programação, acho TI muito interessante.</p2></center>
+        <hr>
  </p> Técnologias que uso no meu dia a dia:</p>
    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "/>
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "/>
@@ -23,10 +25,13 @@
     <img align="center" alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white "/>
     <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "/>
    <img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "/>
-
-
+    <hr>
 <p><img src = "https://media.licdn.com/dms/image/D4D22AQFWoFuuwUfzQA/feedshare-shrink_2048_1536/0/1711143412049?e=1714003200&v=beta&t=ooAivTrmaLwjw0xo0nrpX5isjwpTnOiMDrEpuanwKww"></p>
-   <center><p2>Eu amo programação e adoro conhecer novas pessoas, quem quiser se conectar comigo é só mandar mensagem no linkedln, meu Linkedln é Gabriela Catharine Andreatta. 🤓 Vocês repararam que eu também uso óculos como esse emoji? Hehehe, meio bobo, eu sei. Estou estudando programação, acho TI muito interessante.</p2></center>
+        <ol>
+          <h1>Minha formação</h1>
+          <li>Graduação em Escrita Criativa - Pontifícia Catolica do Rio Grande do Sul</li>
+          <ul>Escrita Criativa</ul>
+  <hr>
   <h1>🤪 Assuntos que me interessam em TI:</h1>
    <ol>
      <li>Front End.</li>
@@ -35,6 +40,7 @@
      <li>Realidade Virtual.</li>
       <li>Lógica de programação e algoritmo.</li>
    </ol>
+        <hr>
     <h1>😚 Coisas que eu gosto:</h1>
    <ol>
      <li>Criatividade e artes.</li>
@@ -45,20 +51,21 @@
       <li>Morangos, bolo e pizza.</li>
       <li>Coca cola zero açucar.</li>
    </ol>
+        <hr>
   <h1>🥰 Linguagens de Programação que me interessam:</h1>
    <ol>
      <li>JavaScript.</li>
      <li>Python.</li>
       <li>Java.</li>
    </ol>
-      </ol>
+     <hr>
   <h1>🥰 Linguagens de Programação que me interessam:</h1>
    <ol>
      <li>JavaScript.</li>
      <li>Python.</li>
       <li>Java.</li>
    </ol>
-   </ol>
+        <hr>
   <h1>🤗 Minhas softs skills:</h1>
    <ol>
      <li>Liderança: Fui monitora do curso "Plataforma Proa", em que eu auxiliei os meus colegas, realizei tarefas como monitora e ensinei eles, desenvolvi a capacidade de liderança.</li>
@@ -67,12 +74,13 @@
           <li>Liderança: Fui monitora do curso "Plataforma Proa", em que eu auxiliei os meus colegas, realizei tarefas como monitora e ensinei eles, desenvolvi a capacidade de liderança.</li>
           <li>Mentalidade de Desenvolvimento continuo: Continuo me desenvolvendo por meio dos estudos e por meio de cursos, de uma forma interdisciplinar, tentando aprender mais sobre diversos assuntos e colocando em pratica.</li>
    </ol>
+   <hr>
 
   <h1>🙂 Meu e-mail:</h1>
    <ul>
      <li>Meu e-mail: https://gabrielaandreatta2001@gmail.com</li>
    </ul>
-   
+   <hr>
   <h1>🤩 Informações adicionais:</h1>
    <ol>
      <li>Aceito novas conexões no Linkedln, amo fazer amizades.</li>
