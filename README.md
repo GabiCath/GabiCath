@@ -29,7 +29,7 @@
 <p><img src = "https://media.licdn.com/dms/image/D4D22AQFWoFuuwUfzQA/feedshare-shrink_2048_1536/0/1711143412049?e=1714003200&v=beta&t=ooAivTrmaLwjw0xo0nrpX5isjwpTnOiMDrEpuanwKww"></p>
         <ol>
           <h1>Minha formação</h1>
-          <li>Graduação em Escrita Criativa - Pontifícia Catolica do Rio Grande do Sul</li>
+          <li>Graduação em Escrita Criativa - Pontifícia Catolica do Rio Grande do Sul - 2020/2022</li>
         </ol>
   <hr>
   <h1>🤪 Assuntos que me interessam em TI:</h1>
