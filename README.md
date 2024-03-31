@@ -6,7 +6,7 @@
     <body>
         <center><i><h1>Eu sou a Gabriela Catharine Andreatta, podem me chamar de Gabbie! É um prazer conhecer vocês! </h1></i></center>
 <center><p><img src = "https://media.licdn.com/dms/image/D4D22AQE9okUXCM1Njg/feedshare-shrink_800/0/1702817670999?e=1713398400&v=beta&t=d6Fn-s_yZF_Wv0lMZSRii6xjNnz4Ep8I1B1-D8a-glQ"></p>
-      <center><a href='https://www.linkedin.com/in/gabriela-catharine-andreatta-profissionalmultidisciplinar/'<button>Meu Linkedln</button></a>
+      <center><button style="red"></button><a href='https://www.linkedin.com/in/gabriela-catharine-andreatta-profissionalmultidisciplinar/'<button>Meu Linkedln</button></a></center>
            <center><p2>Eu amo programação e adoro conhecer novas pessoas, quem quiser se conectar comigo é só mandar mensagem no linkedln, meu Linkedln é Gabriela Catharine Andreatta. 🤓 Vocês repararam que eu também uso óculos como esse emoji? Hehehe, meio bobo, eu sei. Estou estudando programação, acho TI muito interessante.</p2></center>
         <hr>
  </p> Técnologias que uso no meu dia a dia:</p>
