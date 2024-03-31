@@ -9,7 +9,7 @@
            <center><p2>Eu amo programação e adoro conhecer novas pessoas, quem quiser se conectar comigo é só mandar mensagem no linkedln, meu Linkedln é Gabriela Catharine Andreatta. 🤓 Vocês repararam que eu também uso óculos como esse emoji? Hehehe, meio bobo, eu sei. Estou estudando programação, acho TI muito interessante.</p2></center>
     <a href="https://www.linkedin.com/in/gabriela-catharine-andreatta-profissionalmultidisciplinar/" target="_blank"><button id>Meu LinkedIn</button></a>
       #botton {
-    color : value1;  
+    color : pink;  
 }
  </p> Técnologias que uso no meu dia a dia:</p>
    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "/>
