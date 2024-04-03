@@ -105,6 +105,8 @@
  
   <div align="right">Made with 💜 by <a href="https://github.com/mari4souza">Mari4souza</a>.</div>
 
+</details>
+
 <br><br>
   
   </body>
