@@ -81,8 +81,11 @@
      <li>Meu e-mail: https://gabrielaandreatta2001@gmail.com</li>
    </ul>
    <hr>
+  
+  </body>
+      </html>
 
-
+      
 
    <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabiCath/GabiCath/output/github-contribution-grid-snake-dark.svg">
@@ -103,8 +106,3 @@
   <div align="right">Made with 💜 by <a href="https://github.com/mari4souza">Mari4souza</a>.</div>
 
 </details>
-
-  
-  </body>
-      </html>
-
