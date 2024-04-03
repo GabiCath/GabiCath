@@ -1,8 +1,4 @@
-### Oie, pessoal. <br> Bem-vindos ao meu perfil!
-
-<Html>
-    <body>
-        <center><i><h1>Eu sou a Gabriela Catharine Andreatta, podem me chamar de Gabbie! É um prazer conhecer vocês! </h1></i></center>
+### Oie, pessoal. <br> Bem-vindos ao meu perfil! Eu sou a Gabriela Catharine Andreatta, podem me chamar de Gabbie! É um prazer conhecer vocês!
 <center><p><img src = "https://media.licdn.com/dms/image/D4D22AQE9okUXCM1Njg/feedshare-shrink_800/0/1702817670999?e=1713398400&v=beta&t=d6Fn-s_yZF_Wv0lMZSRii6xjNnz4Ep8I1B1-D8a-glQ"></p>
            <center><p2>Eu amo programação e adoro conhecer novas pessoas, quem quiser se conectar comigo é só mandar mensagem no linkedln, meu Linkedln é Gabriela Catharine Andreatta. 🤓 Vocês repararam que eu também uso óculos como esse emoji? Hehehe, meio bobo, eu sei. Estou estudando programação, acho TI muito interessante.</p2></center>
     <a href="https://www.linkedin.com/in/gabriela-catharine-andreatta-profissionalmultidisciplinar/" target="_blank"><button style="red";>Meu LinkedIn</button></a>
@@ -79,8 +75,27 @@
      <li>Meu e-mail: https://gabrielaandreatta2001@gmail.com</li>
    </ul>
    <hr>
-  
-  </body>
-      </html>
 
+      
+
+
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabiCath/GabiCath/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabiCath/GabiCath/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabiCath/GabiCath/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
+
+
+<details align="left">
+  <summary></summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a>.
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>.
+  - Developer vector created by @andi_aqua_ on <a href="https://picrew.me/en/">picrew</a>.
+ 
+  <div align="right">Made with 💜 by <a href="https://github.com/mari4souza">Mari4souza</a>.</div>
+
+</details>
   
