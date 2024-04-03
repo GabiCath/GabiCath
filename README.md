@@ -1,8 +1,6 @@
 ### Oie, pessoal. <br> Bem-vindos ao meu perfil!
 
 <Html>
-  <head>
-  </head>
     <body>
         <center><i><h1>Eu sou a Gabriela Catharine Andreatta, podem me chamar de Gabbie! É um prazer conhecer vocês! </h1></i></center>
 <center><p><img src = "https://media.licdn.com/dms/image/D4D22AQE9okUXCM1Njg/feedshare-shrink_800/0/1702817670999?e=1713398400&v=beta&t=d6Fn-s_yZF_Wv0lMZSRii6xjNnz4Ep8I1B1-D8a-glQ"></p>
@@ -85,24 +83,4 @@
   </body>
       </html>
 
-      
-
-   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabiCath/GabiCath/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabiCath/GabiCath/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabiCath/GabiCath/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
-
-
-
-<details align="left">
-  <summary></summary> 
- 
-  - Badges by <a href="https://shields.io/">shields.io</a>.
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>.
-  - Developer vector created by @andi_aqua_ on <a href="https://picrew.me/en/">picrew</a>.
- 
-  <div align="right">Made with 💜 by <a href="https://github.com/mari4souza">Mari4souza</a>.</div>
-
-</details>
+  
