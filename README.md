@@ -20,7 +20,7 @@
     <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "/>
    <img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "/>
     <hr>
-        <p><img src="/mnt/data/image.png" alt="Pessoa sorrindo usando chapéu de formatura"></p>
+        <p><img src="[/mnt/data/image.png](https://media.licdn.com/dms/image/D4D22AQE9okUXCM1Njg/feedshare-shrink_800/0/1702817670999?e=1722470400&v=beta&t=7U6mC9zzCxduWBeBTXhVZBZbEKQ0rO-vfG0BiLGFIdE)" alt="Pessoa sorrindo usando chapéu de formatura"></p>
         <ol>
           <h1>Minha formação</h1>
           <li>Graduação em Escrita Criativa - Pontifícia Catolica do Rio Grande do Sul - 2020/2022</li>
