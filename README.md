@@ -7,7 +7,6 @@
 <body>
     <h1>Oie, pessoal.</h1>
     <p>Bem-vindos ao meu perfil! Eu sou a Gabriela Catharine Andreatta, podem me chamar de Gabbie! É um prazer conhecer vocês!</p>
-    <img src="https://media.licdn.com/dms/image/D4D22AQE9okUXCM1Njg/feedshare-shrink_800/0/1702817670999?e=1713398400&v=beta&t=d6Fn-s_yZF_Wv0lMZSRii6xjNnz4Ep8I1B1-D8a-glQ" alt="Foto da Gabriela Catharine Andreatta">
     <center>
         <p>Eu amo programação e adoro conhecer novas pessoas. Quem quiser se conectar comigo é só mandar mensagem no LinkedIn. Meu LinkedIn é Gabriela Catharine Andreatta. 🤓 Vocês repararam que eu também uso óculos como esse emoji? Hehehe, meio bobo, eu sei. Estou estudando programação, acho TI muito interessante.</p>
         <a href="https://www.linkedin.com/in/gabriela-catharine-andreatta-profissionalmultidisciplinar/" target="_blank">
@@ -61,15 +60,5 @@
         <li>Python</li>
         <li>Java</li>
     </ol>
-    <hr>
-    <h1>🤗 Minhas soft skills:</h1>
-    <ol>
-        <li>Liderança: Fui monitora do curso "Plataforma Proa", em que eu auxiliei os meus colegas, realizei tarefas como monitora e ensinei eles, desenvolvi a capacidade de liderança.</li>
-        <li>Trabalho em equipe: Lido com trabalhos em equipe desde que sou uma criança, realizei muitos trabalhos em grupo, tanto no ensino fundamental, quanto no ensino médio, quanto na faculdade e até mesmo durante o curso "Plataforma Proa".</li>
-        <li>Pensamento criativo: Desenvolvi desde a época em que eu era pequena, o pensamento criativo, pensando em muitas soluções e ideias criativas. Eu gosto de testar coisas, desenvolvi ainda mais o meu pensamento criativo durante a faculdade e agora durante o curso "Programar com você" que estou participando.</li>
-        <li>Mentalidade de desenvolvimento contínuo: Continuo me desenvolvendo por meio dos estudos e por meio de cursos, de uma forma interdisciplinar, tentando aprender mais sobre diversos assuntos e colocando em prática.</li>
-    </ol>
-    <hr>
-    <p><img src="/mnt/data/image.png" alt="Pessoa sorrindo usando chapéu de formatura"></p>
 </body>
 </html>
