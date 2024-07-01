@@ -12,7 +12,7 @@
             <button style="background-color: red; color: white;">Meu LinkedIn</button>
         </a>
     </center>
-    <img src="![Uploading image.png…]()">
+    <img src="[![Uploading image.png…]()](https://media.licdn.com/dms/image/D4D22AQE9okUXCM1Njg/feedshare-shrink_800/0/1702817670999?e=1722470400&v=beta&t=7U6mC9zzCxduWBeBTXhVZBZbEKQ0rO-vfG0BiLGFIdE)">
     <p>Tecnologias que uso no meu dia a dia:</p>
     <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
