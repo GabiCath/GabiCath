@@ -61,7 +61,7 @@
   </a>
 </div>
 
-![Snake Animation](https://raw.githubusercontent.com/GabiCath/GabiCath/main/ARQUIVO.svg)
+![Snake animation](https://github.com/GabiCath/GabiCath/blob/output/github-contribution-grid-snake.svg)
 
 
 ###
